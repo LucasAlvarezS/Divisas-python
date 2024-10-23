@@ -1,5 +1,4 @@
 import requests
-
 url = "https://api.exchangeratesapi.io/v1/latest?access_key=43479b594d119ce4e4bd3a0c41359fb0&format=1"
 
 base = input ("Ingresa tú divisa local: ")
