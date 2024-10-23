@@ -1,1 +1,1 @@
-ejercicio de divisas en tiempo real utilizando api
+cambio de divisas en tiempo real utilizando exchangeratesapi
